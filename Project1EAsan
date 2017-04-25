@@ -87,9 +87,6 @@
    "version": "2.7.10"
   }
  },
- "nbformat": 4,
- "nbformat_minor": 0
-}
   {
    "cell_type": "markdown",
    "metadata": {},
@@ -153,4 +150,7 @@
     "through the odds test to ascertain which variables have the greatest impact on admittance."
    ]
   },
+   "nbformat": 4,
+ "nbformat_minor": 0
+}  
 
